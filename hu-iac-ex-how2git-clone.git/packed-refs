@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+3ec7ed3deb47871350687c50ae90dafd36d40f0c refs/heads/dependabot/maven/com.fasterxml.jackson.core-jackson-databind-2.10.0.pr1
+aa1d8ef2df59f9bcbc57f211a2e6e6625441e77e refs/heads/develop
+9caa61b48b979b8c21b4debdbbd977c808ed46d7 refs/heads/development
+6921bf1802e6a53e2983b84cc86d98de3d88800d refs/heads/master
+f7afc79b91e9f63a2be0f0362ab2fb6f7aa9e753 refs/pull/1/head
+aa1d8ef2df59f9bcbc57f211a2e6e6625441e77e refs/pull/2/head
+38d444dd41b187b98c601cc304fa99c748602ce2 refs/pull/2/merge
+7b7a012a871f96ca4b295d89217604119c5106e3 refs/pull/3/head
+e3958680388f9f98f7395355619a162fdff89d5a refs/pull/4/head
+3ec7ed3deb47871350687c50ae90dafd36d40f0c refs/pull/5/head
+1db67dff7699501bbbb28a22e71020570f2e36b6 refs/pull/5/merge
