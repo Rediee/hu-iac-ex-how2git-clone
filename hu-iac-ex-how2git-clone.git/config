@@ -5,6 +5,6 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/Rediee/hu-iac-ex-how2git-clone/
+	url = https://github.com/Rediee/hu-iac-ex-how2git-clone
 	fetch = +refs/*:refs/*
 	mirror = true
